@@ -30,7 +30,7 @@ public class DataSourceConfig {
 		dataSource.setDriverClassName("com.mysql.cj.jdbc.Driver");
 		dataSource.setJdbcUrl("jdbc:mysql://172.31.41.88:3306/daeguyo");
 		dataSource.setUsername("root");
-		dataSource.setPassword("Gytlstkfkd52");
+		dataSource.setPassword("Gytlstkfkd52^");
 
 		return dataSource;
 	}
